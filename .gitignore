@@ -1,0 +1,38 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# R / MATLAB working files
+.Rproj.user/
+.Rhistory
+.RData
+*.asv
+*.autosave
+# Site-specific paths and potentially identifiable data
+config/paths.json
+DATA/raw/
+DATA/private/
+DATA/parcellated_residuals/
+DATA/discovery_dataset/
+DATA/replication_dataset/
+DATA/robustness_dataset/
+DATA/model_inputs/
+RESULTS/
+FIGURES/*
+!FIGURES/main/
+!FIGURES/supplementary/
+FIGURES/main/*
+FIGURES/supplementary/*
+!FIGURES/main/.gitkeep
+!FIGURES/supplementary/.gitkeep
+*.edf
+*.fif
+*.log
+*.pkl

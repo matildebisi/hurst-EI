@@ -1,0 +1,40 @@
+name: hurst-neuroimaging
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - vtk=9.6.2
+  - jupyterlab
+  - pytest
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - nibabel
+  - nilearn
+  - scikit-learn
+  - statsmodels
+  - pingouin
+  - openpyxl
+  - pywavelets
+  - mne
+  - r-base=4.4
+  - r-lme4
+  - r-lmertest
+  - r-emmeans
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-ggplot2
+  - r-jsonlite
+  - r-ggeffects
+  - r-sjplot
+  - pip
+  - pip:
+      - neuromaps
+      - netneurotools
+      - pyreadr
+      - eyelinkio
+      - brainspace==0.2.1
