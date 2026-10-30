@@ -24,11 +24,13 @@ DATA/discovery_dataset/
 DATA/replication_dataset/
 DATA/robustness_dataset/
 DATA/model_inputs/
+
 # Ignore files in RESULTS but allow traversal of directories
 RESULTS/**/*
 !RESULTS/**/
 # Include only files inside dataframes directories
 !RESULTS/**/dataframes/**
+
 FIGURES/*
 !FIGURES/main/
 !FIGURES/supplementary/
