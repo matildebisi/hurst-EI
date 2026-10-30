@@ -1,0 +1,3 @@
+voxel,parcel_id,fraction_of_parcel,selected_30perc_of_voxel,mask_file
+dlpfc,35,0.5642201834862385,True,C:/Users/matil/Desktop/Hurst/DATA/templates/Group_voxel_scaled_thr.nii.gz
+dlpfc,27,0.5476190476190477,True,C:/Users/matil/Desktop/Hurst/DATA/templates/Group_voxel_scaled_thr.nii.gz

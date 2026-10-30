@@ -15,15 +15,8 @@ Thumbs.db
 .RData
 *.asv
 *.autosave
-# Site-specific paths and potentially identifiable data
-config/paths.json
-DATA/raw/
-DATA/private/
-DATA/parcellated_residuals/
-DATA/discovery_dataset/
-DATA/replication_dataset/
-DATA/robustness_dataset/
-DATA/model_inputs/
+
+
 
 # Ignore files in RESULTS but allow traversal of directories
 RESULTS/**/*

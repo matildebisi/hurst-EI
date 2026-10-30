@@ -1,0 +1,17 @@
+voxel,parcel_id,fraction_of_parcel,selected_30perc_of_voxel,mask_file
+anteriorcingulate,28,0.7962264150943397,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-anteriorcingulate_space-MNI152_masked_desc-fraction.nii
+anteriorcingulate,88,0.7922392886014551,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-anteriorcingulate_space-MNI152_masked_desc-fraction.nii
+anteriorcingulate,78,0.324,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-anteriorcingulate_space-MNI152_masked_desc-fraction.nii
+occipital,49,0.44504504504504505,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-occipital_space-MNI152_masked_desc-fraction.nii
+occipital,100,0.4371184371184371,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-occipital_space-MNI152_masked_desc-fraction.nii
+occipital,6,0.42996108949416345,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-occipital_space-MNI152_masked_desc-fraction.nii
+occipital,55,0.42196531791907516,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-occipital_space-MNI152_masked_desc-fraction.nii
+occipital,99,0.40725806451612906,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-occipital_space-MNI152_masked_desc-fraction.nii
+occipital,9,0.36934441366574333,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-occipital_space-MNI152_masked_desc-fraction.nii
+occipital,50,0.36425855513307986,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-occipital_space-MNI152_masked_desc-fraction.nii
+occipital,36,0.3290909090909091,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-occipital_space-MNI152_masked_desc-fraction.nii
+rightauditory,93,0.49810174639331817,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-rightauditory_space-MNI152_masked_desc-fraction.nii
+rightauditory,59,0.4879852125693161,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-rightauditory_space-MNI152_masked_desc-fraction.nii
+rightauditory,92,0.3601083032490975,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-rightauditory_space-MNI152_masked_desc-fraction.nii
+smleft,19,0.5502742230347349,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-smleft_space-MNI152_masked_desc-fraction.nii
+smleft,14,0.30461711711711714,True,C:/Users/matil/Desktop/Hurst/DATA/WAND/group_maps_masked\ses-05_acq-mega_voi-smleft_space-MNI152_masked_desc-fraction.nii
